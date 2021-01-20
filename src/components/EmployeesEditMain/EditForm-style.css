@@ -1,0 +1,44 @@
+.button{
+    float: right;
+    color: #4d4d4d;
+}
+
+.tableFName{
+    display: inline-block;
+    width: 65px;
+    color: #4d4d4d;
+}
+
+.tableLName{
+    display: inline-block;
+    width: 170px;
+    color: #4d4d4d;
+}
+
+.tablePos{
+    display: inline-block;
+    width: 100px;
+    color: #4d4d4d;
+}
+
+.table4{
+    margin: 0px;
+    float: right;
+    padding: 10px;
+    color: #4d4d4d;
+}
+
+.tabW{
+    width: 1200px;
+}
+
+.pad{
+    margin-left: 30px;
+}
+
+.edit{
+    display: table;
+    margin-right: 30px;
+    margin-left: auto;
+    padding-bottom: 20px;
+}

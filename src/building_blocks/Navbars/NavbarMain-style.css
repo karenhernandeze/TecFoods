@@ -1,0 +1,50 @@
+.b3{
+    margin-right: 450px;
+}
+
+.title{
+    flex: 1;
+    letter-spacing: unset;
+    line-height: 30px;
+    font-size: 30px;
+    border-radius: 3px;
+    text-transform: none;
+    color: inherit;
+    margin: 0;
+}
+
+.titleSec{
+    /*flex: 1;*/
+    letter-spacing: unset;
+    line-height: 30px;
+    font-size: 48px;
+    text-transform: none;
+    background-color: transparent;
+    margin: 0;
+    box-shadow: none;
+    color: white;
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-left: auto;
+    min-height: 20px;
+}
+
+.head{
+    background: #172B3A;
+    box-shadow: none;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding-top: 10px;
+    z-index: 1029;
+    color: white;
+    border: 0;
+    padding: 8px 0;
+    transition: all 150ms ease 0s;
+    min-height: 20px;
+    display: block;
+}

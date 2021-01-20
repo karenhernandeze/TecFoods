@@ -1,0 +1,79 @@
+.cardCategory {
+    color: #737373;
+    margin: 0;
+    font-size: 14px;
+    margin-top: 0;
+    padding-top: 10px;
+    margin-bottom: 0;
+
+}
+
+.cardTitle {
+    color: #000000;
+    margin-top: 0px;
+    min-height: auto;
+    font-weight: 300;
+    font-family: "Roboto", "Helvetica", "Arial", "sans-serif";
+    margin-bottom: 3px;
+    text-decoration: none;
+}
+
+.stats{
+    color: #a6a6a6;
+    display: inline-flex;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.dialog{
+    z-index: 0;
+    position: static;
+    top: 50px;
+}
+
+.dialog2{
+    z-index: 10;
+    position: absolute;
+    right: 50px;
+}
+
+.dialog3 {
+    margin-top: 45px;
+}
+
+.da{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: black;
+    line-height: 1.5em;
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    opacity: 1;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 2px;
+    -webkit-transition: all 150ms linear;
+    -moz-transition: all 150ms linear;
+    -o-transition: all 150ms linear;
+    transition: all 150ms linear;
+    display: block;
+    clear: both;
+    line-height: 1.42857143;
+    color: black;
+    white-space: nowrap;
+    height: unset;
+    min-height: unset;
+}
+.da:hover{
+    /*background-color: gold;*/
+    background-color: #00bcd4;
+    color: white;
+    margin: fill;
+    box-shadow: brown;
+}
+
+.icon{
+    padding-left: 15px;
+}

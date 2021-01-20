@@ -1,0 +1,51 @@
+.restName{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.restSch{
+    display: table;
+    margin-right: 100px;
+    margin-left: auto;
+    text-align: center;
+}
+
+.restEmp{
+    display: table;
+    margin-left: 20px;
+    text-align: start;
+}
+
+.edit{
+    display: table;
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+.icon{
+    padding-left: 15px;
+}
+
+
+.tableFName{
+    display: inline-block;
+    width: 65px;
+    color: #4d4d4d;
+}
+
+.tableLName{
+    display: inline-block;
+    width: 170px;
+    color: #4d4d4d;
+}
+
+.tablePos{
+    display: inline-block;
+    width: 100px;
+    color: #4d4d4d;
+}
+
+.tabW{
+    width: 1200px;
+}
